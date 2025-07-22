@@ -1,0 +1,10 @@
+h1{
+   color: blue; 
+   
+   padding: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bolder;
+}
+body{
+   background-color: rgb(128, 221, 218);
+}
